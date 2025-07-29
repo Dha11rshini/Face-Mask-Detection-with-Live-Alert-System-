@@ -1,0 +1,5 @@
+flask
+opencv-python
+tensorflow==2.12.0
+numpy==1.23.5
+
